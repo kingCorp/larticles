@@ -10,6 +10,7 @@
     </head>
     <body>
        <div id="app">
+           this is a web <i class="fa fa-pagelines" aria-hidden="true"></i>
             <navbar></navbar>
             <div class="container">
                 <articles></articles>
