@@ -11,9 +11,6 @@
     <body>
        <div id="app">
             <navbar></navbar>
-            <div class="container">
-                <articles></articles>
-            </div>
        </div>
 
 
